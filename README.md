@@ -1,7 +1,14 @@
 # Testing Summer con Angular Chile
 Es una iniciativa de la comunidad **Angular Chile** para fomentar el aprendizaje y uso de testing en los procesos de desarrollos de aplicaciones con Angular.
 
-## ¿Cómo funciona?
+## ¿Que es Testing Summer Angular?
+Tú compartes un código, nosotros les escribimos unit tests y lo compartimos con la comunidad.
+
+## Template
+Te recomendamos que comiences a partir de la siguiente plantilla: https://stackblitz.com/edit/angular-testing-summer y hagas un fork con tu cuenta personal.
+
+
+## ¿Cómo participar?
 1. Realizaremos una comunicación vía Twitter o Facebook sobre las fechas de postulación.
 2. Los postulantes comparten su código por [StackBlitz](https://stackblitz.com/).
 3. Se realizará un sorteo semanal sobre todas las postulaciones enviadas.
