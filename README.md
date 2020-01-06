@@ -1,7 +1,7 @@
 # Testing Summer con Angular Chile
 Es una iniciativa de la comunidad **Angular Chile** para fomentar el aprendizaje y uso de testing en los procesos de desarrollos de aplicaciones con Angular.
 
-![portada](/docs/portada.jpg)
+<img src="docs/portada.jpg" width="100%"/>
 
 ## ¿Que es Testing Summer Angular?
 Tú compartes tu código, nosotros escribimos [pruebas unitarias](https://es.wikipedia.org/wiki/Prueba_unitaria) y [pruebas de integración](https://es.wikipedia.org/wiki/Prueba_de_integraci%C3%B3n). Al final del proceso compartimos los resultados con la comunidad y fomentamos el aprendizaje conjunto.  
@@ -16,7 +16,7 @@ Al final del ciclo publicaremos artículos y/o videos explicando los conceptos r
 6. El equipo de **Angular Chile** enviará el código con los casos de testing aplicados y se harán públicos al resto de la comunidad.
 
 ## Calendarios
-(TBA)
+<img src="docs/calendario_enero.jpg" width="100%"/>
 
 ## Y si gano, ¿Qué tengo que hacer?
 Sigue [esta guía](/PASOS.md) para mayor información
